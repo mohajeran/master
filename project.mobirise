@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 84,
+    "uniqCompNum": 110,
     "versionPublish": "3.9.2",
     "favicon": "",
     "noImageResize": "",
@@ -34,7 +34,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "MOHAJER",
+        "title": "MOHAJERAN",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -174,8 +174,8 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "globe",
-              "family": "MobiriseIcons",
+              "name": "global",
+              "family": "et-line",
               "active": true,
               "link": "page4.html",
               "size": "150",
@@ -190,8 +190,8 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "bookmark",
-              "family": "MobiriseIcons",
+              "name": "layers",
+              "family": "et-line",
               "active": true,
               "link": "page3.html",
               "size": "150",
@@ -206,8 +206,8 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "briefcase",
-              "family": "MobiriseIcons",
+              "name": "gift",
+              "family": "et-line",
               "active": true,
               "link": "page2.html",
               "size": "150",
@@ -222,8 +222,8 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "help",
-              "family": "MobiriseIcons",
+              "name": "puzzle",
+              "family": "et-line",
               "active": true,
               "link": "page1.html",
               "size": "150",
@@ -424,7 +424,7 @@
               "font-size": "18px"
             },
             ".list-group-text": {
-              "color": "#f28281"
+              "color": "#f3c649"
             },
             "P": {
               "font-size": "25px",
@@ -446,6 +446,12 @@
             },
             "UL": {
               "font-size": "60px"
+            },
+            "SPAN": {
+              "color": "#f28281"
+            },
+            ".list-group-text P": {
+              "font-size": "14px"
             }
           },
           "_tags": [
@@ -493,7 +499,7 @@
               "size": "50"
             }
           },
-          "text2": "00 44 000 0000",
+          "text2": "&nbsp; 00 44 000 0000 &nbsp; &nbsp; &nbsp;➡",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont-company-contacts5",
@@ -517,7 +523,7 @@
           },
           "text4": "@gmail.com",
           "title1": "",
-          "text5": "&nbsp;&nbsp;<br><li><span style=\"line-height: 1.8;\">وایبر . واتساپ . تلگرام</span><br></li>",
+          "text5": "&nbsp;&nbsp;<br><li><span style=\"line-height: 1.8;\">وایبر . واتساپ . تلگرام</span></li><li><span style=\"line-height: 1.8;\">کانال تلگرام : @mohajerantk</span></li>",
           "text6": "<br>مشاوره رایگان<br><br>مشاوره در زمینه های مرتبط با اخذ ویزا، گرفتن اقامت و دریافت پناهندگی رایگان است<br><br>",
           "form": {
             "title": "MESSAGE",
@@ -629,7 +635,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-119x128-0.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-164x128-25.jpg",
               "height": 128,
               "alt": "",
               "link": "#top",
@@ -642,14 +648,52 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-mobile2 mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px;\"></span>00 44 000 0000<br>بهترین مشاوره ها را رایگان در اختیار شما قرار می دهیم<br></a>",
+          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#contacts5-h\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-mobile2 mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px;\"></span>00 44 000 0000<br>بهترین مشاوره ها را رایگان در اختیار شما قرار می دهیم<br></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts5-h\">تماس با ما</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-q\">انجمن ها</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-g\">خدمات ما</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider3-n\">صفحه اصلی</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">MOHAJERAN.TK</a></li>"
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "20px"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#7c706b",
+              "font-size": "15px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-2w",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "<span style=\"font-weight: normal;\">WWW.MOHAjERAN.TK</span>"
         }
       ]
     },
     "page1.html": {
       "settings": {
-        "title": "MOHAJER"
+        "title": "MOHAJERAN"
       },
       "components": [
         {
@@ -732,7 +776,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-119x128-0.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-164x128-26.jpg",
               "height": 128,
               "alt": "",
               "link": "#top",
@@ -745,7 +789,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-mobile2 mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px;\"></span>00 44 000 0000<br>بهترین مشاوره ها را رایگان در اختیار شما قرار می دهیم<br></a>",
+          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#contacts5-h\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-mobile2 mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px;\"></span>00 44 000 0000<br>بهترین مشاوره ها را رایگان در اختیار شما قرار می دهیم<br></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts5-h\">تماس با ما</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-q\">انجمن ها</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-g\">خدمات ما</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider3-n\">صفحه اصلی</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">MOHAJERAN.TK</a></li>"
         },
         {
@@ -766,18 +810,18 @@
             "Theme"
           ],
           "_name": "buttons1",
-          "_anchor": "buttons1-1y",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">تور توریستی</a> <a data-app-btn=\"true\" class=\"btn btn-warning-outline btn-warning\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">تهیه مدارک</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">اخذ پناهندگی</a>",
           "_styles": {
             ".btn": {
               "font-size": "20px"
             }
-          }
+          },
+          "_anchor": "buttons1-1y",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgColor": "#28324e"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">تور توریستی</a> <a data-app-btn=\"true\" class=\"btn btn-warning-outline btn-warning\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">تهیه مدارک</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">اخذ پناهندگی</a>"
         },
         {
           "_styles": {
@@ -797,7 +841,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": 1,
-            "bgColor": "#efefef",
+            "bgColor": "#28324e",
             "showMeta": true
           },
           "title": "اخذ ویزا",
@@ -807,7 +851,7 @@
     },
     "page2.html": {
       "settings": {
-        "title": "MOHAJER"
+        "title": "MOHAJERAN"
       },
       "components": [
         {
@@ -828,18 +872,18 @@
             "Theme"
           ],
           "_name": "buttons1",
-          "_anchor": "buttons1-27",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">تور توریستی</a> <a data-app-btn=\"true\" class=\"btn btn-warning-outline btn-warning\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">تهیه مدارک</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">اخذ ویزا</a>",
           "_styles": {
             ".btn": {
               "font-size": "20px"
             }
-          }
+          },
+          "_anchor": "buttons1-27",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgColor": "#28324e"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">تور توریستی</a> <a data-app-btn=\"true\" class=\"btn btn-warning-outline btn-warning\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">تهیه مدارک</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">اخذ ویزا</a>"
         },
         {
           "_inherit": "menu",
@@ -921,7 +965,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-119x128-0.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-164x128-10.jpg",
               "height": 128,
               "alt": "",
               "link": "#top",
@@ -934,7 +978,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-mobile2 mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px;\"></span>00 44 000 0000<br>بهترین مشاوره ها را رایگان در اختیار شما قرار می دهیم<br></a>",
+          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#contacts5-h\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-mobile2 mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px;\"></span>00 44 000 0000<br>بهترین مشاوره ها را رایگان در اختیار شما قرار می دهیم<br></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts5-h\">تماس با ما</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-q\">انجمن ها</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-g\">خدمات ما</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider3-n\">صفحه اصلی</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">MOHAJERAN.TK</a></li>"
         },
         {
@@ -955,7 +999,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": 1,
-            "bgColor": "#efefef",
+            "bgColor": "#28324e",
             "showMeta": true
           },
           "title": "اخذ پناهندگی",
@@ -965,7 +1009,7 @@
     },
     "page3.html": {
       "settings": {
-        "title": "MOHAJER"
+        "title": "MOHAJERAN"
       },
       "components": [
         {
@@ -986,18 +1030,18 @@
             "Theme"
           ],
           "_name": "buttons1",
-          "_anchor": "buttons1-29",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">تور توریستی</a> <a data-app-btn=\"true\" class=\"btn btn-warning-outline btn-warning\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">اخذ پناهندگی</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">اخذ ویزا</a>",
           "_styles": {
             ".btn": {
               "font-size": "20px"
             }
-          }
+          },
+          "_anchor": "buttons1-29",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgColor": "#28324e"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">تور توریستی</a> <a data-app-btn=\"true\" class=\"btn btn-warning-outline btn-warning\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">اخذ پناهندگی</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">اخذ ویزا</a>"
         },
         {
           "_styles": {
@@ -1017,7 +1061,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": 1,
-            "bgColor": "#efefef",
+            "bgColor": "#28324e",
             "showMeta": true
           },
           "title": "تهیه مدارک",
@@ -1103,7 +1147,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-119x128-0.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-164x128-26.jpg",
               "height": 128,
               "alt": "",
               "link": "#top",
@@ -1116,14 +1160,14 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-mobile2 mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px;\"></span>00 44 000 0000<br>بهترین مشاوره ها را رایگان در اختیار شما قرار می دهیم<br></a>",
+          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#contacts5-h\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-mobile2 mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px;\"></span>00 44 000 0000<br>بهترین مشاوره ها را رایگان در اختیار شما قرار می دهیم<br></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts5-h\">تماس با ما</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-q\">انجمن ها</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-g\">خدمات ما</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider3-n\">صفحه اصلی</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">MOHAJERAN.TK</a></li>"
         }
       ]
     },
     "page4.html": {
       "settings": {
-        "title": "MOHAJER"
+        "title": "MOHAJERAN"
       },
       "components": [
         {
@@ -1144,18 +1188,18 @@
             "Theme"
           ],
           "_name": "buttons1",
-          "_anchor": "buttons1-2b",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">تهیه مدارک</a> <a data-app-btn=\"true\" class=\"btn btn-warning-outline btn-warning\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">اخذ پناهندگی</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">اخذ ویزا</a>",
           "_styles": {
             ".btn": {
               "font-size": "20px"
             }
-          }
+          },
+          "_anchor": "buttons1-2b",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgColor": "#28324e"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">تهیه مدارک</a> <a data-app-btn=\"true\" class=\"btn btn-warning-outline btn-warning\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">اخذ پناهندگی</a> <a data-app-btn=\"true\" class=\"btn btn-danger-outline btn-danger\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">اخذ ویزا</a>"
         },
         {
           "_inherit": "menu",
@@ -1237,7 +1281,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-119x128-0.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-164x128-58.jpg",
               "height": 128,
               "alt": "",
               "link": "#top",
@@ -1250,7 +1294,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-mobile2 mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px;\"></span>00 44 000 0000<br>بهترین مشاوره ها را رایگان در اختیار شما قرار می دهیم<br></a>",
+          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#contacts5-h\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-mobile2 mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px;\"></span>00 44 000 0000<br>بهترین مشاوره ها را رایگان در اختیار شما قرار می دهیم<br></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts5-h\">تماس با ما</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-q\">انجمن ها</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-g\">خدمات ما</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider3-n\">صفحه اصلی</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">MOHAJERAN.TK</a></li>"
         },
         {
@@ -1271,7 +1315,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": 1,
-            "bgColor": "#efefef",
+            "bgColor": "#28324e",
             "showMeta": true
           },
           "title": "تورهای توریستی",
@@ -1318,9 +1362,35 @@
     },
     "page5.html": {
       "settings": {
-        "title": "MOHAJER"
+        "title": "MOHAJERAN"
       },
       "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-2n",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">DOWNLOAD FOR WIN</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-2o",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgColor": "#28324e"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\"></a> <a data-app-btn=\"true\" class=\"btn btn-warning-outline btn-warning\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\"></a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\"></a>"
+        },
         {
           "_inherit": "menu",
           "_tags": [
@@ -1401,7 +1471,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-119x128-0.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-164x128-86.jpg",
               "height": 128,
               "alt": "",
               "link": "#top",
@@ -1414,32 +1484,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-mobile2 mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px;\"></span>00 44 000 0000<br>بهترین مشاوره ها را رایگان در اختیار شما قرار می دهیم<br></a>",
+          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#contacts5-h\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-mobile2 mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px;\"></span>00 44 000 0000<br>بهترین مشاوره ها را رایگان در اختیار شما قرار می دهیم<br></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts5-h\">تماس با ما</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-q\">انجمن ها</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-g\">خدمات ما</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider3-n\">صفحه اصلی</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">MOHAJERAN.TK</a></li>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "text-align": "right",
-              "color": "#c1c1c1"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1k",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 1,
-            "bgColor": "#efefef",
-            "showMeta": true
-          },
-          "title": "اخذ ویزا",
-          "meta": ""
         },
         {
           "_styles": {
@@ -1459,19 +1505,103 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": 1,
-            "bgColor": "#efefef",
+            "bgColor": "#28324e",
             "showMeta": true
           },
           "title": "تهیه مدارک",
           "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "right",
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "content1-2s",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "4",
+            "bgColor": "#cccccc"
+          },
+          "text": "<p>اشخاصى که از کشورهاى اروپايى درخواست پناهندگى مى کنند لازم است با پرسشهاىکارمندان دولت آشنايى پيدا کنند و خود را براى پاسخگويى به سئوالات آماده کنند. اين پرسشها درباره گذشته شما، خانواده و نزديکانتان است. فراموش نکنيد که دادن پاسخ مناسب به تمامی پرسشهای آنان در گرفتن تصميم نهايى اهميت بسيار دارد. از اين رو اجازه ندهيد چيزى فراموش شود يا ناگفته بماند.</p><p><br></p><p>در زير شمارى از پرسشهايى که کارمندان دولت ازشما خواهند پرسید را آورده ايم تا با آنها بيشتر آشنا شويد. شماره بندى و پس و پيش بودن پرسشها نشان دهنده درجه اهميت آنها نيست. آنچه که شما بايد به آن دقت کنيد این است که داستان زندگى خود را آنگونه که لازم است توضيح دهيد و بهم وصل کنيد. تلاش کنيد که آنچه را که تعريف ميکنيد از روى نظم و ترتيب زمانى باشد تا براى شنونده و خواننده گيج کننده نشود.</p><p><br></p><p>هر چه شما پراکنده و بدون ترتيب دلایل خود را بازگو کنيد امکان بوجود آمدن سؤتفاهم براى وزارتخانه ها و مقامات امور پناهندگی بیشتر خواهد شد؛ و در نهايتبه ضرر شما خواهد بود. شما باید براى کسب حق پناهندگی در کشورهاى پناهنده پذير قبل از معرفی خود روى سوالهاى زير کار کرده باشيد.</p><p><br></p><p>&nbsp;– نام و نام خانوادگى؟ – تاريخ تولد؟ – اسم پدر و مادر و شغل آنها؟</p><p><br></p><p>&nbsp;– کجا و در کدام شهر زندگى ميکرديد؟ – آدرس محل زندگى؟</p><p><br></p><p>&nbsp;– پدر و مادر شما کجا زندگى ميکنند؟ – شغل و نحوه امرار معاش آنها؟</p><p><br></p><p>&nbsp;– شغل خودت و تخصص هاى حرفه اى؟ – ميزان تحصيلات؟</p><p><br></p><p>&nbsp;– در کدام مدرسه درس خوانده ايد، اسم و محل مدارسی که در آنها تحصیل کرده اید نام ببريد؟</p><p><br></p><p>&nbsp;– آيا ازدواج کرده ايد؟ – نام همسر شما چيست؟ – شغل و نحوه امرار معاش ايشان ؟</p><p><br></p><p>&nbsp;– تعداد فرزندان؟  تعداد برادر و خواهر؟ چکار ميکنند؟ سن آنها؟</p><p><br></p><p>&nbsp;– چرا کشور خود را ترک کرديد؟ – چگونه به اين کشور رسيديد، از چه راهى؟</p><p><br></p><p>&nbsp;– چه وقت به اينجا رسيديد؟ – از چه طريقى؟</p><p><br></p><p>&nbsp;– موقعيت امنيتى همسر شما چگونه است، آيا وضعیت وی هم در خطر است؟</p><p><br></p><p>&nbsp;– با دقت هر بلايى که به سر شما و خانواده شما در رابطه با فعاليت سياسى آمده است از جمله تعقيب، بازداشت، آزاد شدن از زندان، شکنجه، تفتیش و خانه گردی، مصادره اموال و مانند آنها را توضيح دهيد. آيا به غير از فعاليت سياسى به دلايل ديگرى همچون باور مذهبى، نژاد، جنسيت يا متعلق بودن به يک گروه اقليت، تحت تعقيب و آزار قرار گرفته ايد؟ در دوره هاى متفاوت چگونه تحت تعقيب، آزار و شکنجه قرار گرفته ايد؟ اینها را با دقت و بدون تناقض توضیح دهید.  سعی کنید در مقابل پرسشهای پلیس و کارمندان دولت داستان سرایی نکنید آز آنجای که گفته های شما ثبت می شود  و در نهایت به پرونده شما تبدیل میشود سعی کنید به پرسشهای آنها پاسخ گویا و کوتاه بدهید تا هنگام بررسی سروته گفته های شما معلوم و قابل فهم باشد.</p><p><br></p><p>&nbsp;– سابقه فعاليت سياسى خود وخانواده؟</p><p><br></p><p>&nbsp;– چطور شد که موقعيت شما به خطر افتاد؟</p><p><br></p><p>– سابقه دستگيرى و زنداندارید؟ چند مورد و در چه تاريخهايى؟</p><p><br></p><p>&nbsp;– چه مدت زندانى بوديد(چند ماه و يا چند سال)؟</p><p><br></p><p>– در کدام زندان؟ – زندانى که شما در آن بسر مى بردى در کجا قرار گرفته است؟ – چند نفر زندانى در آن وجود داشت؟ – شکل داخل و بيرون زندان چگونه است؟</p><p><br></p><p>&nbsp;– نحوه دستگيرى شما چگونه بود؟مثلا براى شما نامه فرستادند، در محل کار دستگير شديد و يا در منزل؟ – در چه ساعاتى از شب و يا روز؟ – مامورينى که شمارا دستگير و يا جلب کردند چند نفر بودند؟</p><p><br></p><p>&nbsp;– به وسيله چه نيرويى دستگير شديد؟ نيروى انتظامى، امر به معروف و نهى از منکر، مفاسد اجتماعى و يا لباس شخصى ها؟ توجه داشته باشید هر کدام از این نیروها برای وظایف و ماموریتهای مشخصی ساخته شده اند. برای نمونه شما نمی توانید بگوئید ماموران امر به معروف من را به جرم فعالیت سیاسی دستگیر کرده اند.</p><p><br></p><p>– آيا اشخاص ديگرى نيز در ارتباط با شما دستگير شدند؟ اگر ممکن است نام ببريد؟</p><p><br></p><p>– آيا هنگام تفتيش منزل شما، مأمورين اسنادى و يا چيز ديگرى که جرم شما را اثبات کند پيدا نمودند؟</p><p><br></p><p>– نحوه فرارتان از ايران به چه صورت بود؟ – با چه وسيله اى و از چه طريقى فرار کرديد؟ – قاچاقچى را چگونه پيدا نموديد؟ – اسم قاچاقچى شما چى بود؟ – آيا از ايران تا اينجا همان قاچاقچى را همراه داشتى؟ – چند روز طول کشيد تا به این کشور رسیدید؟ – از طريق چه مرزهايى؟</p><p><br></p><p>–آیامدارکى، مثل پاسپورت، کارت شناسايى، گواهى نامه و غيره به همراه دارید؟ توجه داشته باشید مدارک نامبرده برای آنها بسیار مهم است.</p><p><br></p><p>– آیااسناد ديگرى که نشان دهد موقعيت شما به خطر افتاده است با خود داريد؟</p><p><br></p><p>– آيا تاکنون فرد و يا افرادی از خانواده شما زندانى، فرارى، اعدام و يا تحت تعقيب و پيگرد قرار گرفته است؟ – اگر چنين بوده به طور مشخص اسم و چگونگى و تاريخ آن را بيان کنيد؟ -مثلا در چه تاريخى؟-به چه جرمى؟</p><p><br></p><p>– شکل فعاليت سياسى و سازمانى شما چگونه بود؟ علنى، نيمه علنى و يا کاملا مخفى بود؟ – با چه سازمانى فعاليت مى کرديد؟ – تاريخ آشنايى و شروع فعاليت شما با اين سازمان؟ – آشنايى شما با این سازمان از چه طريقىبود؟ روزنامه، نشريه، راديو، سايتهاى اينترنيتى و يا اشخاص و عناصر فعال سازمان؟ – با چه پاسپورتى آمديد؟ پاسپورت شما چه رنگى بود؟ – آيا مى دانيد پاسپورتى که شما با آن آمده ايد مربوط به کدام کشور بود؟</p><p><br></p><p>– حال روحى شما چگونه است؟</p><p><br></p><p>– مذهب شما چيست؟</p><p><br></p><p>– گفتيد از طريق همسرتان تهديد به مرگ شده ايد، چرا؟ – بجرم رابطه خارج از ازدواج؟ با چه کسى؟ – اسم و آدرس شخصى که با شما رابطه داشته است؟ – در صورت امکان سن و سال وى را بيان کنيد؟- تاريخ شروع و آشنايى با وى؟اکنون از وی خبر دارید؟</p><p><br></p><p>– آيا تهديد شديد؟ به وسیله چه کسی؟ چگونه اين تهديد صورت گرفت؟ با چاقو، اسلحه و يا از طريق ديگرى؟ – چگونه از دستشان فرار کرديد؟ شب بود يا روز؟ بعدا به کجا رفتيد؟ چگونه از زندان آزاد شديد؟ با قيد ضمانت؟ وثیقه؟ و يا اينکه حکم زندانتان تمام شده بود؟</p><p><br></p><p>– محکوم به زندان شديد؟- چند سال حکم داشتيد؟ در کدام زندان بوديد؟ آيا در زندانهاى ديگرى هم بوديد؟ در زندانى که شما بوديد چند نفر زندانى بودند؟ -چرا بعد از آزاديتان از زندان نمى توانستيد در ايران بمانيد؟ آيا فرزندى در ايران داريد؟ چند سال سن دارد و سرپرستى وى به عهده چه کسى است؟</p><p><br></p><p>&nbsp;– آيا کسى و يا کسانى از خويشاوندان شما در خارج کشور زندگى مينمايند؟ – آيا تا کنون از کشورهای اروپایی تقاضاى ويزا کرده ايد؟ بویژه بسیار مهم است در کشوری که از آن درخواست پناهندگی می کنید اگر از قبل از آن درخواست ویزا کرده اید باید در مصاحبه اعلام کنید و دلایل آن را نیز بیان کنید.</p><p><br></p><p>– آيا تاکنون از این کشور و يا کشورهاى ديگرى در خواست پناهندگى کرده ايد؟</p><p><br></p><p>–اگر شما به عنوان اقليت مذهبى، همجنسگرا و يا زنى که بخاطر مسايل اخلاقى از طرف شوهر، برادر و يا هر عضوى از خانواده تهديد شده باشيد بايد بتوانيد تاريخ، شواهد و چگونگى به وقوع پيوستن کل ماجرا و پروسه فرار از آن را توضيح دهيد.</p><p><br></p><p>–پس از آنکه کشور خود را ترک کرديد نسبت به دوستان و خانواده و ديگران که در آنجا مانده اند احساس گناه ميکنيد؟- احساس ميکنيد به آنها مديون هستيد؟ اگر پاسخ مثبت است تا آنجا که ميتوانيد آن را بشکافيد. چه زمانى شما در اين فکر افتاديد که کشور خود را ترک کنيد؟ در اين رابطه چه احساسى داشتيد؟</p><p><br></p><p>– توجه داشته باشيد که شب قبل از مصاحبه خوب بخوابيد و سعى کنيد که در آرامش کامل و بدور از هر گونه اضطراب و پريشانى به مصاحبه برويد.</p><p><br></p><p>در صورت داشتن همسر و يا فرزند در ايران و يا کشورهاى همجوار لازم است هنگام مصاحبه اسامى آنها را با مقامات پناهندگى در ميان بگذاريد تا بعد از کسب پناهندگى بتوانید آنها را بیاورید. معمولا کسانى که بوسيله ويزا و از طريق قانونى وارد کشور مى شوند در صورت درخواست پناهندگى شانس کمتری خواهند داشت، مگر اينکه دلايل بسيار قوى و قانع کننده اى به مقامات ادارى ارائه داده باشند. شما بعنوان پناهنده در صورت گرفتن جواب منفى –بر طبق قانون پناهندگى در بسیاری از کشورهای اروپایی– از طريق ازدواج نيز اجازه اقامت نخواهيد يافت مگر اينکه به کشور خود بازگرديد و از آنجا درخواست اقامت از طریق ازدواج نمائید. توجه داشته باشید ازدواج قبل از جواب منفى مى تواند بر شانس متقاضى پناهندگى بيافزايد اما تعيين کننده نيست.</p><p><br></p><p>هنگام طرح موضوع ازدواج، مقامات امور پناهندگى از شخص متقاضى سؤال ميکنند که آيا میخواهید پرونده شما از طريق ازدواج مورد بررسى قرار گيرد يا از طريق همان کيس پناهندگى؟ بهتر است بگوئيد بر اساس پرونده پناهندگى، چون ازدواج به خودی خود يکى از دلايل اعطای اقامت به شخص متقاضى به حساب ميايد.</p><p><br></p><p>سایراطلاعات ضروری در مورد درخواست پناهندگی</p><p><br></p><p>الف . آيا کسى که با ويزاى شنگن و از طریق دعوتنامه فاميلى آمده باشد مى تواند درخواست پناهندگى کند؟</p><p><br></p><p>بله مى تواند، اما بايد دلايل کافى و قانع کننده ارائه دهد . به شرط آن که:</p><p><br></p><p>١- آخرين اعضاى خانواده باشد، پدر يا مادر پير و تنهايى باشد که از تامين  زندگى و توان کارى برخوردار نباشند.</p><p><br></p><p>٢- بدون سرپرست و عدم برخوردارى از مراقبت اعضای خانواده و خویشاوندان درجه اول باشند.</p><p><br></p><p>٣- فرزند زير سن قانونى باشد.</p><p><br></p><p>٣- از طريق ازدواج آمده باشد. شرایط ديگریکه فرد میتواند در خارج از کشور درخواست پناهندگی نماید این است که  هنگامی کهفرد در سفر خارج از ایران بسر می برد برای او شرایطی پیش بیاید که بازگشت ویبه کشور با موانعو خطرات جدی مواجه شود. در این رابطه باید شواهد کافی وجود داشته باشد.</p><p><br></p><p>ب . تعریف قانون دابلین</p><p><br></p><p>قانون دابلين يک توافق مشترک بين کشورهاى اتحادیه اروپاست. بر اساس اين قانون در صورتى که متقاضى پناهندگى در هرکدام از اين کشورها جواب منفى و نهايتا اخراج گرفته باشد در هيچ يک از ديگر کشورهاى تصويب کننده اين قانوندرخواست پناهندگى وى پذيرفته نخواهد شد. از نظر کشورهاى اروپايى شاهراه اصلى ورود پناهندگان به اروپای غربی، يونان و ايتاليا مى باشد. براى جلوگيرى و سخت تر کردن هرچه بيشتر ورود پناهندگان به اروپای غربی ، شبکه هایی براى رديابى و بازگرداندن پناهندگان ساخته شده است. اين رديابيها فقط از طريق انگشت نگارى صورت مى گيرد. فرد پناهجو تنها درصورتی به کشور دیگری بازگردانده می شود که در آن کشور اثرانگشت داشته و ثبت نام شده باشد.</p><p><br></p><p>نام و مشخصات کسانی که به هر دلیل در کشورمحل اقامت خود از از کنسولگری کشورهای اروپایی درخواست  ويزا کرده باشند حداقل تا پنج سال  درشبکه اينترنتى اداره امور مهاجرين آن  کشورباقی خواهد ماند. چنانچه پناهجو سالها بعد در همان کشور درخواست پناهندگی نماید درخواست ویزای او آشکار شده و باید پاسخگو باشد.از تاریخ 15 ژانويه 2003 کلیه پناهندگان به محض ورود به هرکدام از کشورهای اروپایی انگشت نگارى شده و اسامى آنان در شبکه کامپيوترثبت خواهد شد. از اين تاريخ بچه هاى بالايى ١٤ سال نيز انگشت نگارى خواهند شد.</p><p><br></p><p>ج . آيا به بیماران حق پناهندگى تعلق مى گيرد؟</p><p><br></p><p>بلى در صورتى که قبلا خود را به کشورهاى اروپايى رسانده باشند و دارو و درمانى که به آن نياز دارند در کشورى که از آن آمده اند موجود نباشد. اما مراحل بسيار پيچيده و دشوارى در پيش خواهد داشت. لازم به توضيح است که سياست کلى کشورهاى پناهنده پذير بر اين اساس است که از پذيرفتن پناهنده سر باز زنند و اين سياست کار متقاضى پناهندگى را صد چندان دشوار کرده است.دول پناهنده پذير بدين صورت قلعه اى سخت به دور کشورهاى خود کشيده و راه را بر انسانهايى که براى يک زندگى امن و آرام سفر کرده و سختى راه را به جان خريده اند مسدود و غير قابل نفوذ کرده اند.</p><p><br></p><p>سوالات مهم مسیحی برای نوکیشان</p><p>1-شاگردان مسيح را نام ببريد؟</p><p>شمعون(پطرس)و برادرش آندرياس- يعقوب- يوحنا- متي- فيليپس- توما- برتوما- شمعون فدائي- تدي- يعقوب پسر زبدي- يهودا اسخريوطي</p><p>2- كتاب مقدس از چند كتاب تشكيل شده؟</p><p>66كتاب(39 كتاب عهد عتيق و 27 كتاب عهد جديد)</p><p>3-كتابهاي موسي را نام ببريد؟</p><p>(پيداش- خروج- لاويان- اعداد-تثنيه)مجموع اين 5 كتاب تورات نام دارد</p><p>4-عيسي در چه شهري و كجا به دنيا آمد؟</p><p>در اورشليم بيت الحم در اصطبل</p><p>5- عيسي مسيح در كجا مصلوب شد؟در اورشليم در تپه جلجتا</p><p>6-عيسي مسيح در كجا دستگير شد؟در اورشليم در باغ جتسيماني</p><p>7-عيسي مسيح را كداميك از شاگردان و به چند سكه فروخت؟</p><p>يهوداي اسخريوطي به 30 سكه</p><p>8-كداميك از شاگردان مسيح تا پاي صليب همراه او بود؟ يوحنا</p><p>9-نام ياران زن كه همراه مسيح بودند؟</p><p>جوانا(يونا)- سوسن- مريم مجدليه- خواهر مريم مجدليه و مرتا</p><p>10- حكم اعظم در كتاب مقدس چيست؟</p><p>متي 28: 19-18 آنگاه عيسي جلو آمد و به ايشان فرمود:((تمام اختيارات آسمان و زمين به من داده شده است.پس برويد و تمام قومها را شاگرد من سازيدو ايشان را به اسم پدر و پسر و روح القدوس غسل تعميد دهيد.</p><p>11- تعميد يعني چه؟</p><p>تفسيري از مرگ- دفن- و رستاخيز عيسي مسيح و اعتراف يك ايماندار در ملا عام تعميد علامت پاكي از گناهان و شروع يك زندگي جديد در مسيح را تعميد ميگويند.</p><p>12-انجيل عهد عتيق كدام كتاب است؟كتاب هوشع</p><p>13- مسيح يعني چه؟ مسح كننده</p><p>14- عيسي يعني چه؟برگزيده- نجات دهنده تمام دنيا</p><p>15-عمانوئل يعني چه؟خدا با ماست</p><p>16-انجيل يعني چه؟خبر خوش</p><p>17-مسيح كي بود؟</p><p>تجلي قابل روئيت خدابود كه در مقطعي خاص از زمان جسم گرفت و انسان شد و در ميان ما زيست تا كفاره گناهان ما را بپردازد.يوحنا 1: در ازل كلمه بود.كلمه نزد خدا بود. كلمه خود خدا بود. جسم گرفت در ميان ما ساكن شد براي نجات بشر روي صليب رفت و خونش ريخته شد.</p><p>18-پدر آسماني مسيح كي بود؟خداي پدر</p><p>19-پدر زميني مسيح كي بود؟يوسف</p><p>20-برادران مسيح را نام ببريد؟يعقوب- يهودا- شمعون و يوسف</p><p>21-اولين معجزه مسيح چي بود و در كجا؟تبديل كردن آب به شراب در يك عروسي در قاناي جليا</p><p>22- اولين شهيد مسيحيت چه كسي بود؟ استفان</p><p>23- تولد تازه يعني چه؟</p><p>يعني پس از توبه دريافت طبيعت روحاني و ايمان به عيسي مسيح كه با ادغام ايمان و توبه تولد تازه به دست مي آيد.</p><p>24-نجات يعني چه؟</p><p>يعني اينكه بواسطه تولد تازه(ايمان به عيسي مسيح) اين شانس به من داده مي شود كه از فرزندان خدا شويم و نتيجه توبه و ايمان نجات مي شود.</p><p>25-يك يا دو آيه به دلخواه حفظ شود.</p><p>26- تثليث يعني چه؟</p><p>يعني خدا داراي يك ذات در سه شخصيت است يعني وحدانيت كامل را در تثليث و تثليث را در وحدانيت عبادت مي كنيم.</p><p>27- پروتستان يعني چه؟يعني اعتراض كننده</p><p>28- كاتوليك يعني چه؟يعني جامع</p><p>29- ارتودكس يعني چه؟يعني تعليم صحيح</p><p>30-آئين هاي كليسائي كدامند؟شام آخريا اشاء رباني و تعميد</p><p>31-چرا مسيحي شديد؟</p><p>32- يك داستان از داستانهاي كتاب مقدس را بگوئيد.</p><p>33- اصول مسيحيت چيست؟</p><p>توبه- ايمان- تولد تازه- نجات- سقوط انسان(گناه)- صليب- رستاخيزعيسي مسيح- اولوهيت عيسي- رستاخيزثانويه عيسي- كليساو…..16 تامورد هست كه همين مقدار كفايت ميكند.</p><p>34- آيا شاگردان مسيح پيش از مرگ مسيح تعميد مي دادند؟</p><p>بله. يوحنا4:2 او بيشتر از يحيي مردم را غسل تعميد مي دهد و شاگرد پيدا مي كند.</p><p>35-اولين شاگردان مسيح چه كساني بودند؟</p><p>شمعون ملقب به پطرس و اندرياس برادرش</p><p>36-منظور مسيح از شستن پاي شاگردان چه بود؟</p><p>درس فروتني به شاگردان مي داد كه براي امروزما هم صدق مي كند.</p><p>يوحنا13: 17-13 شما مرا استادو خداوند مي خوانيد و درست مي گوييدچون همينطور نيز هست. حال اگر من كه خداوندو</p><p>استادشما هستم پاهاي شما را شستم شما نيز بايد پاهاي يكديگر را بشوييد. من به شما سرمشقي دادم تا شما نيز همينطور رفتار كنيد. چون مسلماخدمتكار از اربابش بالاتر نيست و قاصد نيز از فرستنده اش مهم تر نمي باشد. در زندگي سعادت در اين است كه به انچه مي دانيد عمل كنيد.</p><p>37-عيسي پس از زنده شدن براي اولين بار خود را به چه كسي نشان داد؟مريم مجدليه</p><p>38-چرا عيسي با مثلها با مردم سخن مي گفت؟</p><p>چون درك اسرار پادشاهي خدا به مردم داده نشده است</p><p>39-آيه مربوط به تثليث در كتاب مقدس چيست؟</p><p>اما زماني مي آيد و در واقع همين الان است كه پرستندگان واقعي ((پدر))طالب چنين پرستندگاني هست.</p><p>40-مسيحيت يعني چه؟</p><p>يعني راه و روش درست زندگي كردن</p><p>41- عيسي مسيح چند سال پيش به دنيا آمد؟ تاریخ محاسبه بر اساس سال میلادی که درحال حاضر در آن می باشیم</p><p>42-اشاء رباني چيست؟</p><p>يك آيئن كليسايي است كه در كليساها انجام مي شود براي آمرزش گناهان ما كه درآن عيسي خداوندبه واسطهء خون خودش پيمان جديدي با انسانها بست</p><p>43-يك معجزه كه در 4 انجيل تكرار شده؟</p><p>دادن نان و ماهي به 5000 نفر</p><p>44- اولين انجيل كدام بود؟</p><p>لوقا كه براي روميان بود(خطاب به روميان)</p><p>45-نقوديوس چه كسي بود؟</p><p>يكي از سران فريسي بود كه در مورد تولد تازه از عيسي مسيح سوال كرد.</p><p>46-پيام يحيي چه بود؟</p><p>بعد از من كسي مي آيد كه ازمن تواناتر است و قبل از تولد من او بوده و من حتي لايق آن نيستم كه بند كفش او را ببندم.</p><p>47- نام پدر و مادر يحيي چه بود؟</p><p>زكريا و اليزابت</p><p>48-چه كساني جنازهء عيسي را دفن كردند؟</p><p>يوسف رامه اي – شمعون قيرواني و نقوديموس</p><p>49- در عهد عتيق خداوند خود را به چه شكلي به همه نشان مي داد؟</p><p>ابر و آتش(اول پادشاهان10:8) وقتي كاهنان از قدس بيرون مي آمدند ناگهان ابري خانهء خداوند را پر ساخت.</p><p>50-چرا عيسي مسيح روي صليب رفت؟به خاطر آمرزش گناهان ما</p><p>51-عيد پسح چيست؟</p><p>خروج12: 21-27 آنگاه موسي بزرگان قوم را نزد خود خواند و به ايشان گفت: ((برويدو بره هايي براي خانوادهايتان بگيريدو براي عيد پسح آنها را قرباني كنيد. خون بره را در طشت بريزيد و بعد با گياه زوفا خون را روي تيرهاي دو طرف در</p><p>و سر در خانه هايتان بپاشيد. هيچ كدام از شما نبايد در آن شب از خانه بيرون رود.آن شب خداوند از سرزمين مصر عبور خواهد كرد تا مصريان را بكشد ولي وقتي خون را روي تيرهاي دو طرف در و سر در خانه هايتان بپاشيد. هيچ كدام از شما نبايد در آن شب از خانه بيرون رود. آن شب خداوند از سرزمين مصر عبور خواهد كردتا مصريان را بكشد. ولي وقتي خون را روي تيرهاي دو طرف در و سر در خانه هايتان ببيند از آنجا مي گذرد و به ((هلاك كننده)) اجازه نمي دهدكه وارد خانه هايتان شده شما را بكشد. برگزاري اين مراسم براي شما و فرزندانتان يك قانون دايمي خواهد بود.وقتي به آن سرزميني كه خداوند وعدهء آن را به شما داده وارد شديد عيد پسح را جشن بگيريد . هرگاه فرزندانتان مناسبت اين جشن را از شما بپرسند بگوييد((عيد پسح را براي خداوند بمناسنت آن شبي جشن مي گيرند كه او از مصر عبور كرده مصري ها را كشت ولي وقتي به خانه هاي ما اسرائيلي ها رسيد از آنها گذشت و به ما آسيبي نرساند.))قوم اسرائيل روي بر خاك نهاده خداوند را سجده نمودند.</p><p>52-آيه طلايي يا قانون طلائي كتاب مقدس چيست؟متي 12:7</p><p>پس انچه مي خواهيد ديگران براي شما بكنند شما همان را براي آنها بكنيد . اين است خلاصهء تورات و كتب انبيا</p><p>53- انجيل كوچك كداميك از آيه هاي كتاب مقدس است؟يوحنا 16:3</p><p>زيرا خدا بقدري مردم جهان را دوست دارد كه يگانه فرزند خود را فرستاده است تا هر كه به او ايمان آورد هلاك شود</p><p>54-نحوهء دريافت نجات چيست؟ نجات فقط از طريق فيض عيسي مسيح مي آيد.</p><p>55-دعا چيست؟و دلايل دعا كردن چيست؟</p><p>ارتباط بين ايماندارو خداوند نه براي اينكه ارادهء خداوند به سوي ما جلب شود بلكه ما با ارادهء خدا هم جهت شويم</p><p>56-انجيل هاي هم نظر كدامند؟ متي – لوقا- مرقس</p><p>57- چرا 10 فرمان روي دو لوح نوشته شد؟</p><p>چون 4 تا از احكام در مورد ارتباط انسان با خدا ميباشد و 6 تاي ديگر در مورد ايمانداران با همديگر است و به اين علت كه خدا به ارتباط ايمانداران احترام مي گذارد.</p><p>58-دعاي مسيح براي شاگردانش چه بود؟يا دعاي ما بايد چگونه باشد؟ متي 6: 9-13</p><p>اي پدر ما كه در آسماني</p><p>نام مقدس تو گرامي باد</p><p>ملكوت تو بر قرار گردد</p><p>خواست تو آنچنان كه در آسمان مورد اجراست بر زمين نيز اجرا شود</p><p>نان روزانه ما را ارزاني دار</p><p>خطا هاي ما را بيامرز چنانكه ما نيز آنان را كه به ما بدي كرده اند مي بخشيم</p><p>ما را از وسوسه ها دور نگاه دار و از شيطان حفظ فرما</p><p>زيرا ملكوت و قدرت و جلال از آن توست. آمين</p><p>59-آخرين نبي چه كسي بود؟يحیي</p><p>60-شباهت عيسي و موسي چه بود؟</p><p>هر دو رهايي بخش هستند . موسي مردم را از مصر و عيسي مردم را از گناه رهايي بخشيد ند</p><p>61-چه كسي زير صليب عيسي را گرفت و او را كمك كرد؟</p><p>شمعون قيرواني</p><p>62-آخرين جمله اي كه مسيح روي صليب گفت چه بود؟ تمام شد</p><p>63-مسيح روي صليب از خدا چه پرسيد؟</p><p>((ايلي ايلي لما سبقتني)) يعني ((خداي من . خداي من چرا مرا تنها گذاشته اي؟))</p><p>64-مريم چگونه حامله شد؟</p><p>بوسيله روح القدس</p><p>65-عيسي در مورد يحيي چه گفت؟</p><p>گفت در زمين از يحيي بزرگتر زاده نشده و درآسمان كوچكترين از يحيي بزرگتر است و يحيي همان الياس موعود است</p><p>66- نام دو فرشته خداوند كه در كتاب مقدس نام برده شده است؟ميكائيل و جبرائيل</p><p>67-كدام فرشته به مريم مژده داد كه عيسي را خواهد زائيد؟جبرائيل</p><p>68- آيا به قيامت اعتقاد داريد؟و نظرخود را در مورد قيامت بگوئيد؟</p><p>بله- انسان هر كاري كه امروز انجام ميدهد ميوهء آن را فردا خواهد خورد . بله قيامت وجود دارد و همه در حضور خداوند خواهند ايستاد و طبق اعمال خودشان باز خواست مي شوند. مسیح مرد وزنده شد یعنی مردو قیام کرد و ما ایمان به مردن و برخاستن از مردگان که همان قیام است داریم پس قیامت هم وجود دارد</p><p>69- انبياء چه كساني هستند؟و معلمان چه كساني هستند؟</p><p>انبياء يعني كساني كه با الهام از خداوند پيغامي مِِي آورند.معلمان يعني كساني كه كلام خداوند را به ديگران تعليم مي دهند. كساني كه معجزه مي كنند. كساني كه بيماران را شفا مي دهند . كساني كه عطاي رهبري و هدايت مردم را دارند. كساني كه عطاي سخن گفتن به زبانهايي را دارند كه قبلا نياموخته اند.</p><p>70- عيد نخل را توضيح دهيد؟</p><p>روزي كه عيسي سوار بركره الاغ وارد اورشليم ميشود….سوال چرا كره الاغ چرا با اسب و يا قاطر ويا….نيامد؟چون الاغ را سمبل صلح و دوستي است…آن روز يهوديان از او با برگهاي درخت نخل پذيرائي كردند و جلوي پاي مسيح گذاشتند.</p><p>71- آيا تمامي انبياء قدرت معجزه داشتند؟</p><p>نبي كسي كه از طرف خدا باشد و واسطه بين ما و خدا باشد…..پس نبي بايد يك كار خاص داشته باشد مثل موسي و يا ايلياو…..اما تمام معجزهء ها همان است كه از طرف خدا وحي و يا پيام را ميرساند و خداوند با آنها صحبت ميكنند كه اين خود يك معجزه است.</p><p>72- آيا همه انبياء كتاب داشتند؟</p><p>بله – تمام انبياء همانهايي هستند كه قبل از عيسي مسيح بودند</p><p>73- اعمال رسولا ن را چه كسي نوشت؟ ادامهء لوقا بود</p><p>74- عيسي مسيح در زمان كدام پادشاه به دنيا آمد؟</p><p>هيروديس</p><p>75- عيسي مسيح در زمان كدام پادشاه مصلوب شد؟</p><p>پنتيوس پيلا طوس</p><p>76- جانشين يهوداي اسخريوطي چه كسي بودو چگونه انتخاب شد؟</p><p>متياس به قيد قرعه</p><p>77- انجيل عهد عتيق به چه چيزي اشاره دارد؟</p><p>به پيماني كه خدا توسط موسي با قوم خود بست</p><p>78- آخرين كتاب چه نام دارد؟</p><p>مكاشفه كه روياهاي يوحناي رسول است</p><p>79- سه عيد مهم مسيحيان ؟</p><p>تولد مسيح – عيد قيام -عید پنطیکاست</p><p>80- روز تولد مسيح چه تاريخي است؟</p><p>روز 25 دسامبر كريسمس نام جشني است در آيين مسيحيت كه به منظورگراميداشت زاد روز مسيح برگزار ميشود. بسياري از اعضاي كليساي كاتوليك روم و پيروان آيين پروتستان كريسمس را در روز 25 دسامبر جشن گرفته و بسياري آنرا در شامگاه روز 24 دسامبر بر گزار ميكنند.همچنين اعضاي بيشتر كليساي ارتودوكس در سراسر دنيا نيز روز 7ژانویه را به عنوان عيد ميلاد جشن ميگيرند.</p><p>81- عيد قيام چيست؟ روز یکشنبه بعد از جمعه الصلیب میباشد و روزی که مسیح از مردکان برخواست و شاگردان رفتند وقبر را خالی دیدند</p><p>82- هدف كليسا چيست؟</p><p>هدف كليسا اين است كه ايمانداران در معرفت خدا ايمانو محبت رشد نمايند دوستي و مشاركت داشته باشند</p><p>83- مبناي مسيحيت يا (فونداسيون)مسيحيت چيست؟</p><p>پدر – پسر- روح القدوس</p><p>84-عيسي در مورد دو حكم اعظم خداوند چه فرمود؟</p><p>1-خداي خود را به همه دل و تمامي نفس و فكر خود محبت نما 2- همسايه خود را مثل خود محبت نما</p><p>85- سه چيز((اصل)) بزرگ كه پولس رسول (يكي از ياران نزديك مسيح)به آنها اشاره مي كنند چيست؟</p><p>ايمان- محبت- و اميد بزرگتر از همه محبت است</p><p>86-عید پنطیکاست چه روزیست؟50 روز بعد از قیام مسیح که هفته هفتم میشود و عید یهودیان هم هست عید برداشت محصول … و در آن روز روح القدس بر کسانی که در همان خانه ای که آخرین بار مسیح عشای ربانی را انجام داد قرار گرفت و همه از روح خدا پرشدند</p><p>87- یکی ازدلایلی که می خواستند مسیح را سنگ ساز کنند چه بود؟</p><p>بارها و بارها ادعای خدایی کرد.</p><p>88-یوحنا رسول چه کسی بود؟</p><p>یکی از شاگردان مسیح وتنها کسی بودکه به مرگ طبیعی می میره والبته جفا می بینه واون را توی ظرف روغن داغ می اندازنش ولی جان سالم بدر می بره و به جزیره ی تبعید می شود که درسال 101بعد از میلاد مسیح به مرگ طبیعی می میره</p><p>89-هدف اصلی یوحنا چه بود؟ می خواهم با خواندن این انجیل ایمان بیارن تا متوجه بشن که عیسی پسر خداست. یوحنا: باب 20آیه 31 ولی همان مقدار نوشته شد تا ایمان آورید که عیسی همان مسیح وفرزند خداست و با ایمان به او زندگی جاوید بیابید.</p><p>90-یوحنا رسول از کلمه ایمان چند بار استفاده کرده؟ 100 بار</p><p>91-کلمه نور در کتاب مقدس چند بارآمده؟ 21 بار</p><p>92-در مورد مسیحیت چه می دانید؟ دوم قرنتیان باب 5 آیه 15تا18</p><p>93- شاخه پرتستان ازکدام کشورو توسط چه کسی ایجاد شد؟توسط مارتین لوترکشیش آلمانی در کشور آلمان در سال 1592 میلادی</p><p><br></p>"
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "20px"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#7c706b",
+              "font-size": "15px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-2x",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "<span style=\"font-weight: normal;\">WWW.MOHAjERAN.TK</span>"
         }
       ]
     },
     "page6.html": {
       "settings": {
-        "title": "MOHAJER"
+        "title": "MOHAJERAN",
+        "meta_descr": ""
       },
       "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-2l",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">DOWNLOAD FOR WIN</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-2m",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgColor": "#28324e"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\"></a> <a data-app-btn=\"true\" class=\"btn btn-warning-outline btn-warning\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\"></a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\"></a>"
+        },
         {
           "_inherit": "menu",
           "_tags": [
@@ -1552,7 +1682,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-119x128-0.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-164x128-35.jpg",
               "height": 128,
               "alt": "",
               "link": "#top",
@@ -1565,32 +1695,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-mobile2 mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px;\"></span>00 44 000 0000<br>بهترین مشاوره ها را رایگان در اختیار شما قرار می دهیم<br></a>",
+          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#contacts5-h\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-mobile2 mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px;\"></span>00 44 000 0000<br>بهترین مشاوره ها را رایگان در اختیار شما قرار می دهیم<br></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts5-h\">تماس با ما</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-q\">انجمن ها</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-g\">خدمات ما</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider3-n\">صفحه اصلی</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">MOHAJERAN.TK</a></li>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "text-align": "right",
-              "color": "#c1c1c1"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1n",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 1,
-            "bgColor": "#efefef",
-            "showMeta": true
-          },
-          "title": "اخذ ویزا",
-          "meta": ""
         },
         {
           "_styles": {
@@ -1610,19 +1716,45 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": 1,
-            "bgColor": "#efefef",
+            "bgColor": "#28324e",
             "showMeta": true
           },
-          "title": "تهیه مدارک",
+          "title": "اتحادیه اروپا",
           "meta": ""
         }
       ]
     },
     "page7.html": {
       "settings": {
-        "title": "MOHAJER"
+        "title": "MOHAJERAN"
       },
       "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-2j",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">DOWNLOAD FOR WIN</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-2k",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgColor": "#28324e"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\"></a> <a data-app-btn=\"true\" class=\"btn btn-warning-outline btn-warning\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\"></a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\"></a>"
+        },
         {
           "_inherit": "menu",
           "_tags": [
@@ -1703,7 +1835,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-119x128-0.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-164x128-13.jpg",
               "height": 128,
               "alt": "",
               "link": "#top",
@@ -1716,32 +1848,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-mobile2 mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px;\"></span>00 44 000 0000<br>بهترین مشاوره ها را رایگان در اختیار شما قرار می دهیم<br></a>",
+          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#contacts5-h\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-mobile2 mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px;\"></span>00 44 000 0000<br>بهترین مشاوره ها را رایگان در اختیار شما قرار می دهیم<br></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts5-h\">تماس با ما</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-q\">انجمن ها</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-g\">خدمات ما</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider3-n\">صفحه اصلی</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">MOHAJERAN.TK</a></li>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "text-align": "right",
-              "color": "#c1c1c1"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1q",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 1,
-            "bgColor": "#efefef",
-            "showMeta": true
-          },
-          "title": "اخذ ویزا",
-          "meta": ""
         },
         {
           "_styles": {
@@ -1761,7 +1869,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": 1,
-            "bgColor": "#efefef",
+            "bgColor": "#28324e",
             "showMeta": true
           },
           "title": "تهیه مدارک",
@@ -1771,9 +1879,35 @@
     },
     "page8.html": {
       "settings": {
-        "title": "MOHAJER"
+        "title": "MOHAJERAN"
       },
       "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-2h",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">DOWNLOAD FOR WIN</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-2i",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgColor": "#28324e"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\"></a> <a data-app-btn=\"true\" class=\"btn btn-warning-outline btn-warning\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\"></a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\"></a>"
+        },
         {
           "_inherit": "menu",
           "_tags": [
@@ -1854,7 +1988,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-119x128-0.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-164x128-36.jpg",
               "height": 128,
               "alt": "",
               "link": "#top",
@@ -1867,32 +2001,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-mobile2 mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px;\"></span>00 44 000 0000<br>بهترین مشاوره ها را رایگان در اختیار شما قرار می دهیم<br></a>",
+          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#contacts5-h\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-mobile2 mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px;\"></span>00 44 000 0000<br>بهترین مشاوره ها را رایگان در اختیار شما قرار می دهیم<br></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts5-h\">تماس با ما</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-q\">انجمن ها</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-g\">خدمات ما</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider3-n\">صفحه اصلی</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">MOHAJERAN.TK</a></li>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "text-align": "right",
-              "color": "#c1c1c1"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1t",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 1,
-            "bgColor": "#efefef",
-            "showMeta": true
-          },
-          "title": "اخذ ویزا",
-          "meta": ""
         },
         {
           "_styles": {
@@ -1912,7 +2022,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": 1,
-            "bgColor": "#efefef",
+            "bgColor": "#28324e",
             "showMeta": true
           },
           "title": "تهیه مدارک",
@@ -1922,7 +2032,7 @@
     },
     "page9.html": {
       "settings": {
-        "title": "MOHAJER"
+        "title": "MOHAJERAN"
       },
       "components": [
         {
@@ -2005,7 +2115,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-119x128-0.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-164x128-15.jpg",
               "height": 128,
               "alt": "",
               "link": "#top",
@@ -2018,32 +2128,34 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-mobile2 mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px;\"></span>00 44 000 0000<br>بهترین مشاوره ها را رایگان در اختیار شما قرار می دهیم<br></a>",
+          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#contacts5-h\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-mobile2 mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px;\"></span>00 44 000 0000<br>بهترین مشاوره ها را رایگان در اختیار شما قرار می دهیم<br></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts5-h\">تماس با ما</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-q\">انجمن ها</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-g\">خدمات ما</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider3-n\">صفحه اصلی</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">MOHAJERAN.TK</a></li>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "text-align": "right",
-              "color": "#c1c1c1"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-1w",
+          "_name": "buttons1",
+          "_anchor": "buttons1-2c",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">DOWNLOAD FOR WIN</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-2d",
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": 1,
-            "bgColor": "#efefef",
-            "showMeta": true
+            "paddingBottom": "0",
+            "bgColor": "#28324e"
           },
-          "title": "اخذ ویزا",
-          "meta": ""
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\"></a> <a data-app-btn=\"true\" class=\"btn btn-warning-outline btn-warning\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\"></a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\"></a>"
         },
         {
           "_styles": {
@@ -2059,14 +2171,14 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-1x",
+          "_anchor": "header3-2g",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": 1,
-            "bgColor": "#efefef",
+            "bgColor": "#28324e",
             "showMeta": true
           },
-          "title": "تهیه مدارک",
+          "title": "اخذ ویزا",
           "meta": ""
         }
       ]
